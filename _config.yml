@@ -1,5 +1,4 @@
 title: LEE BUI FAH
-#logo:assets/profile.jpg
-
-#description: Outside of work and studies, I maintain an active lifestyle through regular gym sessions and continuously seek opportunities for personal and professional growth.
+logo: /assets/profile.jpg
+description: Outside of work and studies, I maintain an active lifestyle through regular gym sessions and continuously seek opportunities for personal and professional growth.
 theme: jekyll-theme-minimal 
