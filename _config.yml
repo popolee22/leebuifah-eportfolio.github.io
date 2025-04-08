@@ -1,14 +1,14 @@
 title: "Lee Bui Fah's ePortfolio"
 description: "Master's Student in IT Management at UNIMAS and Grab Driver"
 author: "Lee Bui Fah"
-email: ""  # Add email if available
+email: "popolee22@gmail.com"
 
-# Repository Settings
+Repository Settings
 theme: jekyll-theme-minimal
 encoding: UTF-8
 lang: en
 
-# Navigation
+Navigation
 navigation:
   - title: "ABOUT ME"
     url: "index.html"
@@ -19,7 +19,7 @@ navigation:
   - title: "CERTIFICATES"
     url: "certificates.html"
 
-# Personal Information
+Personal Information
 personal_info:
   education:
     - degree: "Master's in Information Technology Management"
@@ -30,11 +30,11 @@ personal_info:
   occupation: "Part-time Grab driver"
   research_focus: "Technology integration in public services"
 
-# Theme Settings
+Theme Settings
 default_theme: "css/theme1.css"
 alternate_theme: "css/theme2.css"
 
-# Build Settings
+Build Settings
 markdown: kramdown
 exclude:
   - Gemfile
@@ -43,5 +43,5 @@ exclude:
   - vendor
   - README.md
 
-# Footer
+Footer
 copyright: "2024 Lee Bui Fah"
