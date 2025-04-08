@@ -6,6 +6,11 @@ This is a personal e-portfolio website built with HTML, CSS, and JavaScript, des
 ## About Me
 I am a Master's in Information Technology Management (MITM) student at UNIMAS Sarawak. I have a background in Public Management from UUM Kedah and currently work as a part-time Grab driver while pursuing my studies.
 
+## Education
+- Diploma in Marketing | Segi College Kuala Lumpur (2014-2016)
+- Bachelor's Degree in Public Management | University Utara Malaysia Kedah (2016-2022)
+- Master Information Technology Management | UNIMAS Kota Samarahan Sarawak (2025-present)
+
 ## Portfolio Sections
 - **About**: My background and education
 - **Skills**: My key competencies and expertise
@@ -19,5 +24,5 @@ I am a Master's in Information Technology Management (MITM) student at UNIMAS Sa
 - Font Awesome for icons
 - GitHub Pages for hosting
 
-## Contact
-For any questions or suggestions, please use the contact form on the portfolio website.
+## Setup and Deployment
+This portfolio is designed to be hosted on GitHub Pages. For deployment instructions, please refer to the DEPLOYMENT_INSTRUCTIONS.md file in this repository.
