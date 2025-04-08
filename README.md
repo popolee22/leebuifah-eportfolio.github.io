@@ -11,9 +11,8 @@ I am a Master's in Information Technology Management (MITM) student at UNIMAS Sa
 - Bachelor's Degree in Public Management   | University Utara Malaysia Kedah (2016-2022)
 - Master Information Technology Management | UNIMAS Kota Samarahan Sarawak (2025-present)
 
-## Technologies Used
-- HTML5
-- CSS3
-- JavaScript
-- Font Awesome for icons
-- GitHub Pages for hosting
+## My Projects
+- IT Management Research Project
+Current research project at UNIMAS focusing on the integration of technology in public service delivery. The project explores key aspects of modern project management including stakeholder collaboration, resource optimization, and strategic planning, combining my background in Public Management with IT Management studies.
+- UUM Final Year Project in Public Management
+Bachelor's degree final project completed at UUM University, focusing on public service delivery and management in Sarawak.
