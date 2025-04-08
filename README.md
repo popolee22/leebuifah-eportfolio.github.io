@@ -11,12 +11,6 @@ I am a Master's in Information Technology Management (MITM) student at UNIMAS Sa
 - Bachelor's Degree in Public Management | University Utara Malaysia Kedah (2016-2022)
 - Master Information Technology Management | UNIMAS Kota Samarahan Sarawak (2025-present)
 
-## Portfolio Sections
-- **About**: My background and education
-- **Skills**: My key competencies and expertise
-- **Projects**: Showcase of my notable work
-- **Contact**: Ways to get in touch with me
-
 ## Technologies Used
 - HTML5
 - CSS3
