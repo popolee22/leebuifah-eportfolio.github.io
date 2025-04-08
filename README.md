@@ -23,6 +23,3 @@ I am a Master's in Information Technology Management (MITM) student at UNIMAS Sa
 - JavaScript
 - Font Awesome for icons
 - GitHub Pages for hosting
-
-## Setup and Deployment
-This portfolio is designed to be hosted on GitHub Pages. For deployment instructions, please refer to the DEPLOYMENT_INSTRUCTIONS.md file in this repository.
