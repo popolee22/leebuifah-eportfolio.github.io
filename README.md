@@ -19,14 +19,5 @@ I am a Master's in Information Technology Management (MITM) student at UNIMAS Sa
 - Font Awesome for icons
 - GitHub Pages for hosting
 
-## Setup and Deployment
-This portfolio is designed to be hosted on GitHub Pages. For deployment instructions, please refer to the DEPLOYMENT_INSTRUCTIONS.md file in this repository.
-
-## Customization
-For information on how to customize this portfolio, please refer to the DOCUMENTATION.md file in this repository.
-
-## License
-This project is open source and available for personal use.
-
 ## Contact
 For any questions or suggestions, please use the contact form on the portfolio website.
