@@ -1,19 +1,7 @@
 title: "Lee Bui Fah's ePortfolio"
+#logo: /assets
 description: "Master's Student in IT Management at UNIMAS and Grab Driver"
-author: "Lee Bui Fah"
 email: "popolee22@gmail.com"
-
 theme: jekyll-theme-minimal
 
-personal_info:
-  education:
-    - degree: "Master's in Information Technology Management"
-      institution: "UNIMAS"
-      status: "Current"
-    - degree: "Background in Public Management"
-      institution: "UUM University"
-  occupation: "Part-time Grab driver"
-  research_focus: "Technology integration in public services"
 
-Footer
-copyright: "2024 Lee Bui Fah"
